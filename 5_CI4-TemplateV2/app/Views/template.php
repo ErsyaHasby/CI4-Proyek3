@@ -65,7 +65,7 @@
     </div>
 
     <div class="footer">
-        <p>&copy; <?= date('Y') ?> by: Hisyam Khaeru Umam</p>
+        <p>&copy; <?= date('Y') ?> by: Ersya Hasby Satria</p>
     </div>
 
 </body>
